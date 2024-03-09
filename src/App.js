@@ -6,7 +6,7 @@ function App() {
     const [statusList, setStatusList] = useState([
         "Not started",
         "In progress",
-        "Completed",""
+        "Completed",
     ])
 
     const [taskList, setTask] = useState([
